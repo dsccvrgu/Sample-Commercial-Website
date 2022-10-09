@@ -63,7 +63,10 @@ body {
     width: 12px;
     height: 8px;
 }
-
+.carousel-control-next {
+    right: 0;
+    width: 60px;
+}
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     visibility: hidden;
